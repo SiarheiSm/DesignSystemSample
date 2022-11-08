@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Lumi" parent="@style/Base.Theme.Lumi.DesignSystem" />
+
+    <style name="Base.Theme.Lumi.DesignSystem" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/brandColor</item>
+        <item name="colorPrimaryVariant">@color/brandSecondaryColor</item>
+        <item name="colorError">@color/errorColor</item>
+
+        <item name="android:colorBackground">@color/backgroundColor</item>
+
+        <item name="outlinedIconButtonStyle">@style/Widget.Lumi.IconButton.Outlined</item>
+
+        <item name="dividerStyle">@style/Widget.Lumi.Divider</item>
+
+        <item name="fontStyleBody1">@style/TextAppearance.Lumi.Body1</item>
+        <item name="fontStyleBody2">@style/TextAppearance.Lumi.Body2</item>
+        <item name="fontStyleBody3">@style/TextAppearance.Lumi.Body3</item>
+        <item name="fontStyleHeadline1">@style/TextAppearance.Lumi.Headline1</item>
+        <item name="fontStyleHeadline2">@style/TextAppearance.Lumi.Headline2</item>
+    </style>
+</resources>

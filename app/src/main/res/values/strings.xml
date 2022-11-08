@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DesignSystemSample</string>
+    <string name="xmlHead">Xml Design</string>
+    <string name="xmlBody">Body text with some details</string>
+    <string name="primaryButtonText">Primary Button</string>
+
+    <string name="composeHeader">Xml Design</string>
+    <string name="composeBody">Body text with some info</string>
+    <string name="openXml">Open Xml Layout</string>
+</resources>

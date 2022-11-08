@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="brandColor">@color/blue_300</color>
+    <color name="brandSecondaryColor">@color/blue_400</color>
+
+    <color name="backgroundColor">@color/grey_neutral_200</color>
+
+    <color name="errorColor">@color/error_400</color>
+
+    <color name="btnPrimaryColor">@color/blue_300</color>
+    <color name="btnWarningColor">@color/error_200</color>
+    <color name="btnDisabledColor">@color/grey_neutral_600</color>
+    <color name="btnSurfaceColor">@color/grey_neutral_50</color>
+
+    <color name="mainTextColor">@color/grey_neutral_900</color>
+
+</resources>

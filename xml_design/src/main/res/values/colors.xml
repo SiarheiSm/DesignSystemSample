@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Grey Scale -->
+    <color name="grey_neutral_900">#1E1D1D</color>
+    <color name="grey_neutral_600">#656667</color>
+    <color name="grey_neutral_200">#C4C7C9</color>
+    <color name="grey_neutral_100">#DCDFE1</color>
+    <color name="grey_neutral_50">#F4F7FA</color>
+
+    <!-- Blue Scale -->
+    <color name="blue_400">#615CFF</color>
+    <color name="blue_300">#7D86FE</color>
+
+    <!-- Error Scale -->
+    <color name="error_700">#D82B39</color>
+    <color name="error_400">#F3515A</color>
+    <color name="error_200">#F09BA0</color>
+
+</resources>

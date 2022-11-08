@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Text -->
+    <!--    Body -->
+    <attr name="fontStyleBody1" format="reference" />
+    <attr name="fontStyleBody2" format="reference" />
+    <attr name="fontStyleBody3" format="reference" />
+    <!--    HeadLine -->
+    <attr name="fontStyleHeadline1" format="reference" />
+    <attr name="fontStyleHeadline2" format="reference" />
+
+    <!-- Button -->
+    <attr name="outlinedIconButtonStyle" format="reference" />
+
+    <!-- Divider -->
+    <attr name="dividerStyle" format="reference" />
+
+</resources>

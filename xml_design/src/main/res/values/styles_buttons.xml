@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="ThemeOverlay.Lumi.Button" parent="">
+        <item name="colorPrimary">@color/btnPrimaryColor</item>
+        <item name="colorSurface">@color/btnSurfaceColor</item>
+        <item name="colorOnSurface">@color/btnDisabledColor</item>
+    </style>
+
+    <style name="Widget.Lumi.IconButton.Outlined" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="materialThemeOverlay">@style/ThemeOverlay.Lumi.Button</item>
+        <item name="strokeColor">@color/brandSecondaryColor</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="iconPadding">0dp</item>
+        <item name="android:insetTop">0dp</item>
+        <item name="android:insetBottom">0dp</item>
+        <item name="android:padding">12dp</item>
+        <item name="android:minWidth">48dp</item>
+        <item name="android:minHeight">48dp</item>
+    </style>
+
+</resources>
